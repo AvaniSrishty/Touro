@@ -59,6 +59,8 @@ background-image: linear-gradient(to right top, #c0d893, #c3dd6f, #bfd87a, #cbd6
 	color:rebeccapurple;
 	font-size: 25px;
 	float: inherit;
+	border-color: red;
+	border-style: groove;
 }
 
 .container
