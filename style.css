@@ -1,0 +1,133 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #c0d893, #c3dd6f, #bfd87a, #cbd698);
+}
+
+.header
+{
+	color: black;font-family: 'Yeon Sung';font-size: 70px;letter-spacing: 7px;margin-top: 80px;
+}
+
+.header img
+{
+	width: 80px;margin-left: -15px;
+    border-radius: 25px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);border-radius: 17px;
+	float: inherit;
+}
+
+#login_button
+{
+	width: 70%;border-radius: 13px;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+
+#para 
+{
+  font-size: 20px;
+  font-family: 'Times New Roman';
+}
+
+#travel-tourism
+{
+	font-family:monospace;
+	letter-spacing: 2px;
+}
+
+#hotels
+{
+	font-family:monospace;
+	letter-spacing: 2px;
+}
+
+#findtheHotels
+{
+	color:rebeccapurple;
+	font-size: 25px;
+	float: inherit;
+}
+
+.container
+{
+	size: 30px;
+	color: violet;
+}
+
+#logout
+{
+	font-size: 20px;
+	float: right;
+}
+
+#helpline
+{
+	font-family:monospace;
+	letter-spacing: 2px;
+}
+
+#map
+{
+	font-family:monospace;
+	letter-spacing: 2px;
+}
+
+#Contact
+{
+	color: teal;
+	size:30px
+}
+
+#Message
+{
+	color: teal;
+	size:30px
+}
+
+#mini
+{
+	float:none;
+}
+
+#user_name
+{
+	color: rgb(90, 20, 156);
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+#top{
+	position: fixed;
+	right: 10px;
+	bottom: 10px;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background: #e62739;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0, 0.25);
+	color: #ffffff;
+	border: none;
+	outline: none;
+	cursor:pointer;
+}
+
+#top:active {
+	background: #cc2333;
+}
+
+.back-to-top-icon{
+	color:white;
+}
